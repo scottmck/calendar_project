@@ -15,12 +15,12 @@ $C['DB_HOST'] = 'localhost';
 /*
  * The database username
  */
-$C['DB_USER'] = 'scott';
+$C['DB_USER'] = 'blank';
 
 /*
  * The database password
  */
-$C['DB_PASS'] = 'django77';
+$C['DB_PASS'] = 'blank';
 
 /*
  * The name of the database to work with
