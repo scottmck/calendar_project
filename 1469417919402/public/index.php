@@ -44,6 +44,8 @@ echo $cal->buildCalendar();
 </p>
 <?php
 
+
+
 /*
  * Include the footer
  */
